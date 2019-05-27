@@ -1,10 +1,6 @@
----
-title: How to host a Sapper.js SSR app on Firebase.
-published: true
-description: Sapper is an up and coming JavaScript framework for creating Server-Side applications. This Guide takes you through the steps on how to tweak your project to run it on Firebase with Cloud functions and Firebase hosting!
-tags: Sapper SSR, Sapper Firebase, Sapper, Firebase
-cover_image: https://thepracticaldev.s3.amazonaws.com/i/2au4fu10q5c51dqenp1e.jpg
----
+# Tutorial on getting your Sapper SSR app on Firebase
+
+> Please consider comment / review on [dev.to](https://dev.to/eckhardtd/how-to-host-a-sapper-js-ssr-app-on-firebase-hmb)
 
 I've been spending about two days scouring the net on trying to find the optimal way to integrate Sapper with Firebase. It's not as easy as it sounds.
 
