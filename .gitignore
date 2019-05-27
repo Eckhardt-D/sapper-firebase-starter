@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+yarn-error.log
+/cypress/screenshots/
+/__sapper__/
+static/google8a0172666a5d201d.html
+.firebase/
+.firebaserc
